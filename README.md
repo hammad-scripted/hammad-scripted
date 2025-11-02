@@ -1,83 +1,96 @@
-<!-- 🌟 Premium GitHub Profile README for a Full Stack Developer -->
+<!-- 💎 Super Premium GitHub Profile README (Banner + Animations + Clean Layout) -->
+
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://i.ibb.co/vkzk4Rc/github-banner.png" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Hammad Ansari</h1>
 <h3 align="center">🚀 Full Stack Developer | Java • React • Node.js • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=450&lines=Building+beautiful+web+apps+💻;Lifelong+learner+📚;Passionate+about+clean+code+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Building+modern+web+experiences;Passionate+about+clean+and+scalable+code" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🧩 About Me
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m learning **Next.js**, **TypeScript**, and **GraphQL**
+- 🔭 Currently working on **MERN Stack Projects**
+- 🌱 Learning **Next.js**, **TypeScript**, and **GraphQL**
 - 💬 Ask me about **Java, React, Node.js, APIs, and full-stack development**
 - 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: I debug faster when I have coffee ☕  
+- ⚡ Fun fact: I debug faster with ☕ and good lo-fi music 🎧  
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="40"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="45"/></a>
 </p>
 
 ---
 
-### 🧠 Tech Stack & Tools
+### ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,java,python,git,github,vscode,tailwind,bootstrap,postman,figma" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 My Stack in Motion
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammad-scripted&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&title=My%20Stack&theme=tokyonight&lineCount=2&width=800&fontSize=15&line1=HTML,HTML5,e34c26;CSS,CSS3,264de4;JavaScript,js,f7df1e;Java,java,007396;React,react,61DBFB;Node.js,node.js,68A063;&line2=Express,express,000000;MongoDB,mongodb,4DB33D;Git,git,F05032;GitHub,github,181717;Vercel,vercel,000000;Tailwind,tailwind,38BDF8;" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammad-scripted&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-scripted&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-scriptedlayout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+</p>
+
+---
+
+### 💼 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [🌐 Portfolio Website](https://github.com/your-username/portfolio) | My personal portfolio showcasing my work | HTML, CSS, JS, React |
-| [🛍️ E-Commerce API](https://github.com/your-username/ecommerce-api) | RESTful backend for online shopping | Node.js, Express, MongoDB |
-| [✅ Task Manager App](https://github.com/your-username/todo-app) | A simple React app to manage daily tasks | React, TailwindCSS |
+| [🌐 Portfolio Website](https://github.com/your-username/portfolio) | Personal portfolio showcasing my work | React, Tailwind, Vite |
+| [🛍️ E-Commerce API](https://github.com/your-username/ecommerce-api) | RESTful API backend for e-commerce | Node.js, Express, MongoDB |
+| [✅ Task Manager App](https://github.com/your-username/todo-app) | Manage daily tasks in style | React, TailwindCSS |
 
 ---
 
-### 📊 Contribution Graph
+### 🪄 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-### 💬 Quote
-> *"Code is like art — elegant, expressive, and built to last."*
+### 💬 Developer Quote
+> “Code is like art — elegant, expressive, and built to last.”  
 
-<p align="center">⭐ Show some love by starring my repositories!</p>
+<p align="center">
+  <img src="https://i.ibb.co/Nmn2gP8/wave-footer.png" alt="Footer Wave" width="100%" />
+</p>
+
+<p align="center">⭐ Show some love by starring my repositories! ⭐</p>
