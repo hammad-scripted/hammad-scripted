@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -53,19 +53,19 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hammad-scripted&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hammad-scripted&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammmad-scripted&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-scripted&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 ---
@@ -73,15 +73,15 @@
 ### 💼 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [🌐 Portfolio Website](https://github.com/your-username/portfolio) | Personal portfolio showcasing my work | React, Tailwind, Vite |
-| [🛍️ E-Commerce API](https://github.com/your-username/ecommerce-api) | RESTful API backend for e-commerce | Node.js, Express, MongoDB |
-| [✅ Task Manager App](https://github.com/your-username/todo-app) | Manage daily tasks in style | React, TailwindCSS |
+| [🌐 Portfolio Website](https://github.com//portfolio) | Personal portfolio showcasing my work | React, Tailwind, Vite |
+| [🛍️ E-Commerce API](https://github.com//ecommerce-api) | RESTful API backend for e-commerce | Node.js, Express, MongoDB |
+| [✅ Task Manager App](https://github.com//todo-app) | Manage daily tasks in style | React, TailwindCSS |
 
 ---
 
 ### 🪄 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammad-scripted&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
