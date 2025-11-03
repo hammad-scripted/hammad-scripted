@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hammad-scripted&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hammad-scripted&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammmad-scripted&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-scripted&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
