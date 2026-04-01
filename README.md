@@ -25,7 +25,7 @@ const hammad = {
   role     : "Full Stack Developer",
   stack    : ["Java", "React", "Node.js", "MongoDB", "Next.js"],
   learning : ["TypeScript", "GraphQL", "Next.js"],
-  contact  : "your.email@example.com",
+  contact  : "hammad.scripted@gmail.com",
   funFact  : "I debug faster with ☕ + lo-fi music 🎧"
 };
 ```
@@ -33,7 +33,7 @@ const hammad = {
 - 🔭 Currently working on **MERN Stack Projects**
 - 🌱 Learning **Next.js**, **TypeScript**, and **GraphQL**
 - 💬 Ask me about **Java, React, Node.js, APIs, and full-stack development**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **hammad.scripted@gmail.com**
 - ⚡ Fun fact: I debug faster with ☕ and good lo-fi music 🎧
 
 ---
@@ -43,7 +43,7 @@ const hammad = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammad.scripted@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.com)
 
