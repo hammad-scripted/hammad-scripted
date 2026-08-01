@@ -114,7 +114,7 @@ const hammad = {
 | &nbsp; | Project | Description | Stack |
 |--------|---------|-------------|-------|
 | 🌐 | [**Portfolio Website**](https://github.com/hammad-scripted/portfolio) | Personal portfolio showcasing my work | `React` `Tailwind` `Vite` |
-| 🛍️ | [**E-Commerce API**](https://github.com/hammad-scripted/ecommerce-api) | RESTful API backend for e-commerce | `Node.js` `Express` `MongoDB` |
+| 🛍️ | [**E-Commerce**](https://mern-e-commerce-xrw8.onrender.com/) | Built a full-stack MERN e-commerce platform featuring authentication, product and cart management, coupon logic, Stripe checkout, admin analytics, Redis caching, and Cloudinary image storage. | `Node.js` `Express` `MongoDB` |
 | ✅ | [**Task Manager App**](https://github.com/hammad-scripted/todo-app) | Manage daily tasks in a clean modern UI | `React` `TailwindCSS` |
 
 ---
