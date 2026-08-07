@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/space-hero.jpg" alt="Astronaut and spacecraft traveling through deep space" />
+<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/starfield-greg-rakozy.jpg" alt="A person standing beneath the Milky Way, photographed by Greg Rakozy" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=720&height=65&lines=Mohammad+Hammad+Ansari;Full+Stack+Developer;Building+modern+web+experiences" alt="Mohammad Hammad Ansari - Full Stack Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2600&pause=900&color=F0ABFC&center=true&vCenter=true&random=false&width=720&height=65&lines=Mohammad+Hammad+Ansari;Full+Stack+Developer;Exploring+the+web+one+commit+at+a+time" alt="Mohammad Hammad Ansari - Full Stack Developer" />
 
 <br />
 
@@ -40,6 +40,18 @@ const hammad = {
 
 <br />
 
+<div align="center">
+
+<img width="46%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/moon-history-in-hd.jpg" alt="Astronaut standing on the Moon, photographed by History in HD" />
+
+<br />
+
+<sub>Always learning. Always building. Always exploring.</sub>
+
+</div>
+
+<br />
+
 ## Technology Constellation
 
 <div align="center">
@@ -55,6 +67,14 @@ const hammad = {
 ### Tools and Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman, Figma and Vercel" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/nebula-aldebaran-s.jpg" alt="Colorful deep-space nebula photographed by Aldebaran S" />
 
 </div>
 
@@ -92,7 +112,7 @@ const hammad = {
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/rocket-mission.jpg" alt="Rocket leaving lunar orbit for deep space" />
+<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/milky-way-jeremy-thomas.jpg" alt="The Milky Way photographed by Jeremy Thomas" />
 
 <br />
 
@@ -136,6 +156,10 @@ const hammad = {
 ### "Code is like art: elegant, expressive, and built to last."
 
 <sub>Thanks for visiting my corner of the galaxy. Explore a repository and leave a star if something catches your eye.</sub>
+
+<br /><br />
+
+<sub>Space photography by Greg Rakozy, History in HD, Aldebaran S, and Jeremy Thomas via Unsplash.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,55:312e81,100:020617" alt="Footer wave" />
 
