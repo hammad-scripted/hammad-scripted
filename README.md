@@ -78,14 +78,33 @@ const hammad = {
 
 </div>
 
-### ðŸ›’ MERN E-Commerce Platform
+### ðŸŒ  Live Deployments
 
-A production-style full-stack storefront with authentication, product and cart management, coupon logic, Stripe checkout, admin analytics, Redis caching, and Cloudinary image storage.
+<div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LAUNCH_LIVE_DEMO-0891b2?style=for-the-badge&logo=rocket&logoColor=white)](https://mern-e-commerce-xrw8.onrender.com/)
-![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=47A248)
+<a href="https://tinder-zrkn.onrender.com/">
+  <img src="https://img.shields.io/badge/%F0%9F%92%98_TINDER-LAUNCH_APP-f43f5e?style=for-the-badge&labelColor=020617" alt="Launch Tinder project" />
+</a>
+&nbsp;
+<a href="https://product-store-5oyl.onrender.com/">
+  <img src="https://img.shields.io/badge/%F0%9F%9B%8D%EF%B8%8F_PRODUCT_STORE-LAUNCH_APP-8b5cf6?style=for-the-badge&labelColor=020617" alt="Launch Product Store project" />
+</a>
+
+<br /><br />
+
+<a href="https://mern-e-commerce-xrw8.onrender.com/">
+  <img src="https://img.shields.io/badge/%F0%9F%9B%92_E--COMMERCE-LAUNCH_APP-06b6d4?style=for-the-badge&labelColor=020617" alt="Launch E-Commerce project" />
+</a>
+&nbsp;
+<a href="https://chatty-wtdg.onrender.com/">
+  <img src="https://img.shields.io/badge/%F0%9F%92%AC_CHATTY-LAUNCH_APP-22c55e?style=for-the-badge&labelColor=020617" alt="Launch Chatty project" />
+</a>
+
+<br /><br />
+
+<sub>ðŸ’˜ Social discovery &nbsp;Â·&nbsp; ðŸ›ï¸ Product showcase &nbsp;Â·&nbsp; ðŸ›’ Full-stack commerce &nbsp;Â·&nbsp; ðŸ’¬ Real-time conversations</sub>
+
+</div>
 
 <br />
 
