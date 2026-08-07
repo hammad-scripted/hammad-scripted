@@ -1,11 +1,15 @@
 <!-- =========================================================
-     GitHub Profile README — Mohammad Hammad Ansari
+     GitHub Profile README â€” Mohammad Hammad Ansari
      Theme: Deep Space / Neon Orbit
 ========================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:312e81,100:06b6d4&text=Mohammad%20Hammad%20Ansari&fontColor=e0f2fe&fontSize=38&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20for%20the%20Web&descAlignY=57&descSize=17&animation=fadeIn" alt="Mohammad Hammad Ansari banner" />
+<img width="100%" src="./assets/space-hero.png" alt="Astronaut and spacecraft traveling through deep space" />
+
+<h1>âœ¦ Mohammad Hammad Ansari âœ¦</h1>
+
+<h3>Full Stack Developer Â· Building for the Web</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=650&lines=Java+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Turning+ideas+into+scalable+digital+experiences;Exploring+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing introduction" />
 
@@ -21,7 +25,7 @@
 
 <br />
 
-## 🛰️ Mission Control
+## ðŸ›°ï¸ Mission Control
 
 ```typescript
 const hammad = {
@@ -34,14 +38,14 @@ const hammad = {
 };
 ```
 
-- 🔭 Building modern, scalable full-stack experiences
-- 🌱 Currently exploring **Next.js, TypeScript, and GraphQL**
-- 💬 Ask me about **Java, React, Node.js, REST APIs, and MongoDB**
-- 📡 Reach me at **[hammad.scripted@gmail.com](mailto:hammad.scripted@gmail.com)**
+- ðŸ”­ Building modern, scalable full-stack experiences
+- ðŸŒ± Currently exploring **Next.js, TypeScript, and GraphQL**
+- ðŸ’¬ Ask me about **Java, React, Node.js, REST APIs, and MongoDB**
+- ðŸ“¡ Reach me at **[hammad.scripted@gmail.com](mailto:hammad.scripted@gmail.com)**
 
 <br />
 
-## 🌌 Technology Constellation
+## ðŸŒŒ Technology Constellation
 
 <div align="center">
 
@@ -61,7 +65,7 @@ const hammad = {
 
 <br />
 
-## 🚀 Featured Missions
+## ðŸš€ Featured Missions
 
 <div align="center">
 
@@ -74,7 +78,7 @@ const hammad = {
 
 </div>
 
-### 🛒 MERN E-Commerce Platform
+### ðŸ›’ MERN E-Commerce Platform
 
 A production-style full-stack storefront with authentication, product and cart management, coupon logic, Stripe checkout, admin analytics, Redis caching, and Cloudinary image storage.
 
@@ -85,7 +89,17 @@ A production-style full-stack storefront with authentication, product and cart m
 
 <br />
 
-## 📊 Flight Data
+<div align="center">
+
+<img width="100%" src="./assets/rocket-mission.png" alt="Rocket leaving lunar orbit for deep space" />
+
+<sub>From first commit to production launchâ€”every project is a new mission.</sub>
+
+</div>
+
+<br />
+
+## ðŸ“Š Flight Data
 
 <div align="center">
 
@@ -104,7 +118,7 @@ A production-style full-stack storefront with authentication, product and cart m
 
 <br />
 
-## 📡 Open a Communication Channel
+## ðŸ“¡ Open a Communication Channel
 
 <div align="center">
 
@@ -121,9 +135,9 @@ A production-style full-stack storefront with authentication, product and cart m
 
 <div align="center">
 
-### ✨ “Code is like art—elegant, expressive, and built to last.”
+### âœ¨ â€œCode is like artâ€”elegant, expressive, and built to last.â€
 
-<sub>Thanks for visiting my corner of the galaxy. If something catches your eye, explore a repository or leave a ⭐.</sub>
+<sub>Thanks for visiting my corner of the galaxy. If something catches your eye, explore a repository or leave a â­.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,55:312e81,100:020617" alt="Footer wave" />
 
