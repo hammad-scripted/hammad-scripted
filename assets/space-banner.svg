@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammad Hammad Ansari - Full Stack Developer</title>
+  <desc id="desc">Animated modern space banner with stars, an orbit, and a glowing planet.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#18103a"/>
+    </linearGradient>
+    <radialGradient id="planet" cx="35%" cy="30%" r="75%">
+      <stop offset="0" stop-color="#e879f9"/>
+      <stop offset="0.48" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#172554"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#38bdf8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <ellipse cx="965" cy="167" rx="190" ry="145" fill="#7c3aed" opacity="0.12" filter="url(#soft)"/>
+  <ellipse cx="170" cy="20" rx="250" ry="120" fill="#0891b2" opacity="0.08" filter="url(#soft)"/>
+
+  <g fill="#f8fafc">
+    <circle cx="58" cy="52" r="1.7"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="126" cy="118" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="206" cy="62" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="302" cy="99" r="1.1" opacity="0.7"/>
+    <circle cx="388" cy="41" r="1.5"><animate attributeName="opacity" values="1;0.15;1" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="478" cy="126" r="1.1" opacity="0.6"/>
+    <circle cx="569" cy="70" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="670" cy="35" r="1.2" opacity="0.8"/>
+    <circle cx="748" cy="111" r="1.7"><animate attributeName="opacity" values="1;0.25;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="828" cy="52" r="1.2" opacity="0.55"/>
+    <circle cx="1082" cy="64" r="1.8"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1154" cy="132" r="1.2" opacity="0.75"/>
+    <circle cx="94" cy="278" r="1.5" opacity="0.65"/>
+    <circle cx="258" cy="302" r="1.8"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="534" cy="292" r="1.2" opacity="0.7"/>
+    <circle cx="713" cy="300" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1122" cy="284" r="1.4" opacity="0.6"/>
+  </g>
+
+  <g transform="translate(952 168)">
+    <ellipse rx="142" ry="43" fill="none" stroke="url(#accent)" stroke-width="4" opacity="0.72" transform="rotate(-14)"/>
+    <circle r="79" fill="url(#planet)" filter="url(#glow)"/>
+    <path d="M-57-45C-25-12 18-7 60-31M-71 14C-18 39 29 37 68 9" fill="none" stroke="#c4b5fd" stroke-width="8" opacity="0.22"/>
+    <ellipse rx="142" ry="43" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity="0.5" transform="rotate(-14)" stroke-dasharray="8 12">
+      <animate attributeName="stroke-dashoffset" from="0" to="-40" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <path id="flightPath" d="M72 250 C300 185 600 315 850 222" fill="none" stroke="#22d3ee" stroke-width="1" stroke-opacity="0.22" stroke-dasharray="5 10"/>
+  <circle r="5" fill="#22d3ee" filter="url(#glow)">
+    <animateMotion dur="7s" repeatCount="indefinite" rotate="auto"><mpath href="#flightPath"/></animateMotion>
+  </circle>
+
+  <g font-family="Orbitron, Segoe UI, Arial, sans-serif">
+    <text x="72" y="78" fill="#22d3ee" font-size="16" font-weight="700" letter-spacing="4">FULL STACK DEVELOPER</text>
+    <text x="68" y="142" fill="#f8fafc" font-size="46" font-weight="800" letter-spacing="1">MOHAMMAD HAMMAD</text>
+    <text x="68" y="194" fill="url(#accent)" font-size="46" font-weight="800" letter-spacing="8">ANSARI</text>
+    <text x="72" y="232" fill="#94a3b8" font-size="17" letter-spacing="1.5">BUILDING MODERN WEB EXPERIENCES FROM UI TO API</text>
+    <text x="72" y="296" fill="#cbd5e1" font-size="14" letter-spacing="2">JAVA  /  REACT  /  NODE.JS  /  MONGODB</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="338" rx="23" fill="none" stroke="url(#accent)" stroke-opacity="0.32" stroke-width="2"/>
+</svg>
