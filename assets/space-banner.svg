@@ -68,7 +68,7 @@
     <animateMotion dur="7s" repeatCount="indefinite" rotate="auto"><mpath href="#flightPath"/></animateMotion>
   </circle>
 
-  <g font-family="Orbitron, Segoe UI, Arial, sans-serif">
+  <g font-family="Bahnschrift, Trebuchet MS, Segoe UI, Arial, sans-serif" font-stretch="semi-condensed">
     <text x="72" y="78" fill="#22d3ee" font-size="16" font-weight="700" letter-spacing="4">FULL STACK DEVELOPER</text>
     <text x="68" y="142" fill="#f8fafc" font-size="46" font-weight="800" letter-spacing="1">MOHAMMAD HAMMAD</text>
     <text x="68" y="194" fill="url(#accent)" font-size="46" font-weight="800" letter-spacing="8">ANSARI</text>

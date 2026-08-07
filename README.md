@@ -20,7 +20,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/orbit-divider.svg" alt="Build, learn, and ship" />
 
-## MISSION CONTROL
+<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/section-mission.svg" alt="Mission Control - About" />
 
 > Full-stack developer focused on modern interfaces, dependable systems, and products that solve real problems.
 
@@ -41,7 +41,7 @@ const hammad = {
 
 ---
 
-## TECHNOLOGY CONSTELLATION
+<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/section-tech.svg" alt="Technology Constellation - Stack" />
 
 <div align="center">
 
@@ -61,7 +61,7 @@ const hammad = {
 
 ---
 
-## FEATURED MISSIONS
+<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/section-projects.svg" alt="Featured Missions - Projects" />
 
 ### 01 / TINDER
 
@@ -97,7 +97,7 @@ Real-time communication experience designed for fast and simple conversations.
 
 ---
 
-## FLIGHT TELEMETRY
+<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/section-telemetry.svg" alt="Flight Telemetry - Activity" />
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Real-time communication experience designed for fast and simple conversations.
 
 ---
 
-## OPEN A SIGNAL
+<img width="100%" src="https://raw.githubusercontent.com/hammad-scripted/hammad-scripted/main/assets/section-contact.svg" alt="Open a Signal - Contact" />
 
 <div align="center">
 

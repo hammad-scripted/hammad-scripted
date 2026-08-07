@@ -14,5 +14,5 @@
     <animate attributeName="stroke-dashoffset" from="0" to="-34" dur="4s" repeatCount="indefinite"/>
   </path>
   <circle r="5" fill="#f0abfc" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle>
-  <text x="600" y="51" text-anchor="middle" fill="#e2e8f0" font-family="Orbitron, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="8">BUILD  /  LEARN  /  SHIP</text>
+  <text x="600" y="51" text-anchor="middle" fill="#e2e8f0" font-family="Bahnschrift, Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" font-stretch="semi-condensed" letter-spacing="8">BUILD  /  LEARN  /  SHIP</text>
 </svg>
